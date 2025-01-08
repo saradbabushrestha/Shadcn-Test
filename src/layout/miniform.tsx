@@ -25,7 +25,7 @@ export function CardWithForm() {
     <Card className="w-[360px]">
       <CardHeader>
         <CardTitle>Create Project</CardTitle>
-        <CardDescription>Deploy your new project in one-click</CardDescription>
+        <CardDescription>Deploy your project in one-click</CardDescription>
       </CardHeader>
       <CardContent>
         <form className="grid w-full items-center gap-4">
