@@ -42,7 +42,7 @@ export function CardWithForm() {
                 </SelectTrigger>
                 <SelectContent position="popper">
                   <SelectItem value="next">Next.js</SelectItem>
-                  <SelectItem value="sveltekit">SvelteKit</SelectItem>
+                  <SelectItem value="sveltekit">.Net</SelectItem>
                   <SelectItem value="astro">Astro</SelectItem>
                   <SelectItem value="nuxt">Nuxt.js</SelectItem>
                 </SelectContent>
