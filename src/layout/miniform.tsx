@@ -44,7 +44,7 @@ export function CardWithForm() {
                   <SelectItem value="next">Next.js</SelectItem>
                   <SelectItem value="sveltekit">.Net</SelectItem>
                   <SelectItem value="astro">Astro</SelectItem>
-                  <SelectItem value="nuxt">nuxt</SelectItem>
+                  <SelectItem value="nuxt">next</SelectItem>
                 </SelectContent>
               </Select>
             </div>
