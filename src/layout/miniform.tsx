@@ -35,7 +35,7 @@ export function CardWithForm() {
               <Input id="name" placeholder="Name of your project" />
             </div>
             <div>
-              <Label htmlFor="framework">Framework</Label>
+              <Label htmlFor="framework"> Framework</Label>
               <Select>
                 <SelectTrigger id="framework">
                   <SelectValue placeholder="Select" />
